@@ -118,28 +118,6 @@ and build intelligent systems that operate from silicon to software.
 
 ---
 
-## 📊 Customer Intelligence Platform
-
-- Customer segmentation
-- Predictive analytics
-- Feature engineering
-- Power BI dashboards
-- Machine Learning models
-
----
-
-## ⚡ RTL Design & Verification
-
-- Logic Gates
-- ALU
-- FSM
-- UART
-- FIFO
-- Testbenches
-- GTKWave Simulation
-
----
-
 # 📚 Current Focus
 
 ```text
@@ -184,16 +162,11 @@ Data Science
 # 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yeshwant-GN/Yeshwant-GN/output/github-contribution-grid-snake.svg">
+ <img data-importer="snake" src="https://raw.githubusercontent.com/25f3003706-dev/25f3003706-dev/snake-output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
----
 
 # 🎓 Education
 
