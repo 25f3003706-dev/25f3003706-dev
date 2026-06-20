@@ -53,7 +53,7 @@ and build intelligent systems that operate from silicon to software.
 ## AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,Scikit-Learn,OpenCV,Pandas" />
 </p>
 
 - Scikit-Learn
@@ -183,7 +183,9 @@ Data Science
 
 # 📊 Contribution Graph
 
-[![Yeshwant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)](https://github.com/YOUR_GITHUB_USERNAME)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yeshwant-GN/Yeshwant-GN/output/github-contribution-grid-snake.svg">
+</p>
 
 ---
 
