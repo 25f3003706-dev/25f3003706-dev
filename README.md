@@ -28,6 +28,18 @@ gnyeshwant7576@gmail.com
 25f3003706@ds.study.iitm.ac.in
 ```
 
+# 🎓 Education
+
+### 🏛 IIT Madras
+BS Degree in Data Science
+
+### 🏛 IIT Guwahati
+AI & Machine Learning Program
+
+### 🏛 J.N.N Institute of Engineering
+B.E Electrical Engineering (VLSI Design)
+
+---
 ---
 
 # 🌟 Vision
@@ -53,30 +65,31 @@ and build intelligent systems that operate from silicon to software.
 ## AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,Scikit-Learn,OpenCV,Pandas" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50"/>
+ 
 </p>
 
-- Scikit-Learn
-- OpenCV
-- Pandas
-- NumPy
-- CNN
-- Transfer Learning
-- YOLOv8
-- Feature Engineering
+![CNN](https://img.shields.io/badge/CNN-Deep_Learning-blue?style=for-the-badge)
+![Transfer_Learning](https://img.shields.io/badge/Transfer_Learning-Neural_Networks-green?style=for-the-badge)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-Computer_Vision-purple?style=for-the-badge)
+![Feature_Engineering](https://img.shields.io/badge/Feature_Engineering-ML-orange?style=for-the-badge)
 
 ---
 
-## Data Analytics
+## 📊 Data Analytics
 
-- Power BI
-- Power Query
-- Excel
-- Statistical Analysis
-- EDA
-- Predictive Analytics
+- 📈 Power BI
+- 🔄 Power Query
+- 📊 Excel
+- 📉 Statistical Analysis
+- 🔍 Exploratory Data Analysis (EDA)
+- 🤖 Predictive Analytics
 
----
 
 ## Hardware & VLSI
 
@@ -145,19 +158,6 @@ Data Science
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 # 📊 Contribution Graph
 
@@ -168,18 +168,7 @@ Data Science
 ---
 
 
-# 🎓 Education
 
-### 🏛 IIT Madras
-BS Degree in Data Science
-
-### 🏛 IIT Guwahati
-AI & Machine Learning Program
-
-### 🏛 J.N.N Institute of Engineering
-B.E Electrical Engineering (VLSI Design)
-
----
 
 # 🤝 Connect With Me
 
