@@ -1,68 +1,227 @@
-# G.N. Yeshwant
+<h1 align="center">Hi 👋, I'm Yeshwant G.N</h1>
 
-**VLSI · AI/ML · Data Science**
+<h3 align="center">
+Electrical Engineering (VLSI) • AI/ML Engineer • Data Scientist
+</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g-n-yeshwant)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/25f3003706-dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://25f3003706-dev.github.io/portfolio)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gnyeshwant7576@gmail.com)
-
----
-
-## About
-
-I started in VLSI — learning how logic is built into silicon. That curiosity led me into Machine Learning, then into Data Science. Today I work across all three, because the most interesting problems live at the boundaries of hardware and intelligence.
-
-I pick up new tools fast — whether it's a new framework, model architecture, or AI platform. I adapt quickly to whatever the work demands.
-
-Currently a second-year student pursuing three degrees simultaneously, actively looking for internships in **VLSI Design**, **AI/ML**, or **Data Science**.
+<h4 align="center">
+Building Intelligent Systems from Silicon to Software
+</h4>
 
 ---
 
-## Education
+<img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-| Degree | Institution | Duration |
-|--------|-------------|----------|
-| B.E. Electrical Engineering (VLSI Design) | J.N.N Institute of Engineering | 2024 – 2028 |
-| B.Sc. Data Science | IIT Madras | 2025 – 2029 |
-| Credit Linked Course – AI & ML | IIT Guwahati | 2025 – 2026 |
+## 🚀 About Me
 
----
+- 🎓 B.E. Electrical Engineering (VLSI Design) @ J.N.N Institute of Engineering
+- 🎓 BS in Data Science @ IIT Madras
+- 🎓 AI & Machine Learning Program @ IIT Guwahati
+- 💼 Front-End Development Team Lead @ Dark Dragons Caelestis Pvt Ltd
+- 🔭 Exploring VLSI Design, Edge AI, Deep Learning and Semiconductor Analytics
+- 🌱 Currently learning Verilog, RTL Design, Computer Vision and FPGA-based AI
+- 💬 Ask me about **Python, SQL, TensorFlow, PyTorch, YOLOv8, Power BI and Verilog**
+- 📫 Reach me at:
 
-## Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+```text
+gnyeshwant7576@gmail.com
+25f3003706@ds.study.iitm.ac.in
+```
 
 ---
 
-## Experience
+# 🌟 Vision
 
-**Web Developer** · Dark Dragons Caelestis Pvt Ltd *(Jan 2025 – Present)*
-- Built responsive web applications for fitness training platforms
-- Developed dynamic and interactive front-end interfaces using HTML, CSS, and JavaScript and little React
-- Collaborated with teams to translate requirements into functional products
-- website link : [Dark Dragon calaestics](https://dark-dragon-caelestics-bg8m.vercel.app)
+My goal is to bridge the worlds of
 
-**Talent Scout** · National Service Scheme *(Nov 2022 – May 2024)*
+### Semiconductor Engineering + Artificial Intelligence + Data Science
+
+and build intelligent systems that operate from silicon to software.
 
 ---
 
-## Currently Working On
+# 🛠 Tech Stack
 
-- 🔬 VLSI Design fundamentals & circuit simulation
-- 🤖 AI/ML model development & deployment
-- 📊 Data Science projects & analytics pipelines
-- 🌐 Open source contributions
-- 🧩 Adapting to emerging AI tools, platforms & workflows
+## Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql" />
+</p>
 
 ---
 
-*Open to internships and collaborations — reach out anytime.*
+## AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+- Scikit-Learn
+- OpenCV
+- Pandas
+- NumPy
+- CNN
+- Transfer Learning
+- YOLOv8
+- Feature Engineering
+
+---
+
+## Data Analytics
+
+- Power BI
+- Power Query
+- Excel
+- Statistical Analysis
+- EDA
+- Predictive Analytics
+
+---
+
+## Hardware & VLSI
+
+- Verilog HDL
+- Digital Logic Design
+- RTL Design
+- Semiconductor Fundamentals
+- FPGA
+- Arduino
+- Edge AI
+
+---
+
+## Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 AI-Powered Smart Chip Fault Detection
+
+- CNN-based semiconductor defect classification
+- Achieved **94% accuracy**
+- Built using TensorFlow and OpenCV
+- Automated visual inspection pipeline
+
+---
+
+## 🎯 Edge AI Object Detection
+
+- YOLOv8 deployed on Raspberry Pi
+- Real-time inference at **28 FPS**
+- Offline object detection system
+- Optimized latency and memory footprint
+
+---
+
+## 📊 Customer Intelligence Platform
+
+- Customer segmentation
+- Predictive analytics
+- Feature engineering
+- Power BI dashboards
+- Machine Learning models
+
+---
+
+## ⚡ RTL Design & Verification
+
+- Logic Gates
+- ALU
+- FSM
+- UART
+- FIFO
+- Testbenches
+- GTKWave Simulation
+
+---
+
+# 📚 Current Focus
+
+```text
+VLSI Design
+│
+├── Verilog HDL
+├── RTL Design
+├── Digital Design
+├── FPGA
+│
+AI/ML
+│
+├── Deep Learning
+├── Computer Vision
+├── Edge AI
+├── TinyML
+│
+Data Science
+│
+├── SQL
+├── Power BI
+├── Analytics
+└── Feature Engineering
+```
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+[![Yeshwant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)](https://github.com/YOUR_GITHUB_USERNAME)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+# 🎓 Education
+
+### 🏛 IIT Madras
+BS Degree in Data Science
+
+### 🏛 IIT Guwahati
+AI & Machine Learning Program
+
+### 🏛 J.N.N Institute of Engineering
+B.E Electrical Engineering (VLSI Design)
+
+---
+
+# 🤝 Connect With Me
+
+<p align="left">
+<a href="YOUR_LINKEDIN_LINK" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+</p>
+
+---
+
+<h3 align="center">
+
+"Building the Future of Intelligent Systems — From Silicon to Software."
+
+</h3>
